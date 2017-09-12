@@ -14,7 +14,7 @@ Note: When you're done, submit a PR.
  -- It needs to have the following: installation instructions, code examples, how to contribute, and definitely gifs.
  
 4. What's one main improvement you're going to make to your code regarding accessibility issues?
- -- The tabindex is definitely an easy one to implement and it's benefits span several accesssibility areas.
+ -- The tabindex is definitely an easy one to implement and its benefits span several accesssibility areas.
  
 5. What are some basic security concerns to be aware of when building applications?
  -- Scoping info to logged-in users instead of just a user-id. Require strong passwords and avoid having admins with user-id of 1.
