@@ -5,7 +5,7 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 1. What's your favorite project management tool?
- -- Pivotal Tracker: It's complex, which made it off-putting when it was first assigned/required for a project, but in time I learned to appreciate it's nuances and features.
+ -- Pivotal Tracker: It's complex, which made it off-putting when it was first assigned/required for a project, but in time I learned to appreciate its nuances and features.
  
 2. Why do we create staging environments?
  -- We need a place that mimics production in order to run new code and gauge its effects on the application. Staging is a great place to test new features without risking adverse affects to the live environment.
